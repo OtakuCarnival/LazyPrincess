@@ -1671,7 +1671,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⪦ 𝔸ℕ𝕀𝕄𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/OtakuCarnival')
         ],[
             InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
-                )
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
