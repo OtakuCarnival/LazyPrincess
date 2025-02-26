@@ -114,15 +114,17 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
+
+‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://t.me/Madara_Uchiha_RoBot'>🔥 爪卂ᗪ卂尺卂 👻</a>  
+‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='https://Nobita_MUI'>🤝 几ㄖ乃|ㄒ卂</a>  
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Otakukarnival'>👨‍💻 ㄚ卂丂卄 😎</a>  
+‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>📚 ᴘʏʀᴏɢʀᴀᴍ</a>  
+‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>🐍 ᴘʏᴛʜᴏɴ 3</a>  
+‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>🗄️ ᴍᴏɴɢᴏ ᴅʙ</a>  
+‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://koyeb.com'>🌐 Kᴏʏᴇʙ</a>  
+‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : 🚧 𝒗10.0[𝑹𝑬𝑽𝑰𝑺𝑬𝑫]</b>
+"""
     
-‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://t.me/Madara_Uchiha_RoBot'>爪卂ᗪ卂尺卂</a>
-‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='https://Nobita_MUI'>几ㄖ乃|ㄒ卂</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Otakukarnival'>ㄚ卂丂卄 😎</a> 
-‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
-‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
-‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://koyeb.com'>Kᴏʏᴇʙ</a> 
-‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : 𝒗10.0[𝑹𝑬𝑽𝑰𝑺𝑬𝑫]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 - 🎉Lᴀᴢʏ Pʀɪɴᴄᴇss ɪs ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
